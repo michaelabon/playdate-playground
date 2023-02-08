@@ -1,0 +1,8 @@
+name=Your game's name
+author=Your name
+description=Description of your game
+bundleID=com.yourname.yourgame
+version=0.1
+buildNumber=0001
+imagePath=/images
+launchSoundPath=/sounds
